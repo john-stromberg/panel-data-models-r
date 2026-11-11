@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [quant-research-r/projects/panel-data-models-r](https://github.com/john-stromberg/quant-research-r/tree/main/projects/panel-data-models-r).
+> This repository is retained as a historical snapshot.
+
+---
+
 # panel-data-models-r
 
 Econometrics R module scaffold with analytics, report, and tests.
